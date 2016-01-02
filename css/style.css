@@ -1,0 +1,22 @@
+body {
+    /*padding-top: 120px;*/
+    /*background: rgb(245,245,245);*/
+    font-family: "Roboto", sans-serif;
+    color: gray;
+    letter-spacing: 0.5px;
+}
+
+p {
+  font-size: 1em;
+}
+
+.octocorn {
+  position: fixed;
+  left: -230px;
+  top: 120px;
+  opacity: 0.5;
+}
+
+.red {
+  color: rgb(175,0,0);
+}
